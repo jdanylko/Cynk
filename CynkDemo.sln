@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34310.174
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CynkDemo", "CynkDemo\CynkDemo.csproj", "{10F96FFA-8226-4E51-A5C9-EDFC65619314}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CynkDemo.Tests", "CynkDemo.Tests\CynkDemo.Tests.csproj", "{0590313F-F962-433A-9E59-5E1376F02AE9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{10F96FFA-8226-4E51-A5C9-EDFC65619314}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10F96FFA-8226-4E51-A5C9-EDFC65619314}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10F96FFA-8226-4E51-A5C9-EDFC65619314}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10F96FFA-8226-4E51-A5C9-EDFC65619314}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0590313F-F962-433A-9E59-5E1376F02AE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0590313F-F962-433A-9E59-5E1376F02AE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0590313F-F962-433A-9E59-5E1376F02AE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0590313F-F962-433A-9E59-5E1376F02AE9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B7FB966-4393-4611-8348-4C5DC373A0CA}
+	EndGlobalSection
+EndGlobal
